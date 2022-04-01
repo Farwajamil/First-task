@@ -1,0 +1,10 @@
+.tab{
+    width: 50rem;
+    background-color: rgb(220, 233, 183);
+    color: rgb(134, 153, 50);
+    max-width: 95%;
+    margin: 2rem auto;
+    text-align: center;
+    border: 2px solid rgb(220, 233, 183);
+    border-radius: 8px;
+}

@@ -1,0 +1,28 @@
+.navbar{
+    padding: 1rem;
+    background-color: rgb(220, 233, 183);
+    border-radius: 10px;
+    margin: 2rem auto;
+    color: rgb(134, 153, 50);
+    width: 50rem;
+    max-width: 95%;
+    margin-top: 25px;  
+}
+.navbar label{
+    font-weight: bold;
+    margin-bottom: 0.5rem; 
+}
+.navbar input{
+    border-radius: 6px;
+    border: 1px solid rgb(228, 224, 224);
+    padding: 0.5rem;
+    max-width: 100%;
+}
+.navbar button{
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 0.5rem;
+    color: rgb(134, 153, 50);
+    border: 1px solid rgb(228, 224, 224);
+     
+}
